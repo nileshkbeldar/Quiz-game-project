@@ -21,8 +21,6 @@ The Basic Quiz Game is a simple command-line quiz application built using Python
 
 - Python latest version installed on your machine.
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
- 
+### Acknowledgments
+This project is part of a Python programming internship designed to reinforce fundamental programming skills.
+Inspired by common quiz-based applications and educational tools.
